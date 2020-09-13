@@ -9,3 +9,4 @@ var tom = new Cat('Tom');
 
 dog.eat(tom);
 console.log(dog);
+console.log(tom);
